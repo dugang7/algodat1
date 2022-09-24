@@ -61,12 +61,12 @@ public class minsteVerdi {
         return m;   // returnerer indeks/posisjonen til største verdi
 
     } // maks
-
+        //heibsdibf
 
     public static void main(String[] args) {
         int[] array = {1,3,4,5,7,5,7};
         int b= min(array);
-        
+
 
         System.out.println(b);
         System.out.println(stor(array));
